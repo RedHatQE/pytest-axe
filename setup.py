@@ -13,9 +13,9 @@ setup(
     use_scm_version=True,
     description="pytest plugin for axe-selenium-python",
     long_description=readme,
-    url="http://github.com/kimberlythegeek/pytest-axe",
+    url="http://github.com/RedHatQE/pytest-axe",
     author="Kimberly Sereduck",
-    author_email="ksereduck@mozilla.com",
+    author_email="mshriver@redhat.com",
     packages=["pytest_axe"],
     install_requires=[
         "pytest-selenium>=1.12.0",
